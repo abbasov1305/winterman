@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 4ab0fe76399cc574d95c066455302731
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3849693625034767514
+    second: LakeTile_0
+  - first:
+      213: 7683734135906805792
+    second: LakeTile_1
+  - first:
+      213: -4800372270001846585
+    second: LakeTile_2
+  - first:
+      213: -5749758680463594367
+    second: LakeTile_3
+  - first:
+      213: 4387999036101843558
+    second: LakeTile_4
+  - first:
+      213: 8006437020115715067
+    second: LakeTile_5
+  - first:
+      213: 4868577774262633866
+    second: LakeTile_6
+  - first:
+      213: -7519296934474577679
+    second: LakeTile_7
+  - first:
+      213: -257654892611476078
+    second: LakeTile_8
+  - first:
+      213: 5451789929742314071
+    second: LakeTile_9
+  - first:
+      213: -8773272114877415558
+    second: LakeTile_0
+  - first:
+      213: 4570511606050681337
+    second: LakeTile_1
+  - first:
+      213: -3514251543832480985
+    second: LakeTile_2
+  - first:
+      213: -5424649718837528248
+    second: LakeTile_3
+  - first:
+      213: 2520295478739857806
+    second: LakeTile_4
+  - first:
+      213: 8964961005130093202
+    second: LakeTile_5
+  - first:
+      213: -1862535637184316464
+    second: LakeTile_6
+  - first:
+      213: 5377088138911291616
+    second: LakeTile_7
+  - first:
+      213: 666218777641523010
+    second: LakeTile_8
+  - first:
+      213: 2017419596949601571
+    second: LakeTile_9
+  - first:
+      213: 8239944563313738860
+    second: LakeTile_10
+  - first:
+      213: -5885890249382124926
+    second: LakeTile_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 33
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LakeTile_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 159
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f34ea8e731f3680800000000000000
+      internalID: -8773272114877415558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f173701718bd6f30800000000000000
+      internalID: 4570511606050681337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 160
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7233f7617deda3fc0800000000000000
+      internalID: -3514251543832480985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84934cd52d5c7b4b0800000000000000
+      internalID: -5424649718837528248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 94
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81ff438263e9f220800000000000000
+      internalID: 2520295478739857806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29212082980f96c70800000000000000
+      internalID: 8964961005130093202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db7f14c4b1f626e0800000000000000
+      internalID: -1862535637184316464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e816cd5c214f9a40800000000000000
+      internalID: 5377088138911291616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2479400d272ee3900800000000000000
+      internalID: 666218777641523010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db7174f605ffb10800000000000000
+      internalID: 2017419596949601571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640a395ce92a5270800000000000000
+      internalID: 8239944563313738860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LakeTile_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282a4a2c00e115ea0800000000000000
+      internalID: -5885890249382124926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
