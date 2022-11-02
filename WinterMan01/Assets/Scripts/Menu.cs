@@ -11,15 +11,21 @@ public class Menu : MonoBehaviour
     public GameObject menuPanel;
     public GameObject tutorialPanel;
     public GameObject gamePlayPanel;
-    
+
+
+
+
     void Start(){
 
         Cursor.visible = true;
+        GameManager.instance.ShowCursorGFX(false);
+
         menuPanel.SetActive(true);
         gamePlayPanel.SetActive(false);
         tutorialPanel.SetActive(false);
         spawner.SetActive(false);
     }
+
     public void LoadScene(int index){
 
         SceneManager.LoadScene(index);
@@ -36,6 +42,7 @@ public class Menu : MonoBehaviour
         menuPanel.SetActive(false);
         spawner.SetActive(true);
         Cursor.visible = false;
+        GameManager.instance.ShowCursorGFX(true);
     }
 
 }

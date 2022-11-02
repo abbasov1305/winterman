@@ -14,6 +14,8 @@ public class GameManager : MonoBehaviour
     [Header("UI")]
     public GameObject GameOverPanel;
 
+    public GameObject cursorGFX;
+
     public Text animalText;
     public Text moneyText;
 
@@ -35,6 +37,8 @@ public class GameManager : MonoBehaviour
 
     void Update(){
 
+        cursorGFX.transform.position = Input.mousePosition;
+
         money += animalCount * moneyRate * Time.deltaTime;
         animalText.text = "Animals " + animalCount.ToString();
         moneyText.text = "$" + money.ToString("0");
@@ -43,10 +47,16 @@ public class GameManager : MonoBehaviour
             isGameOver = true;
             GameOverPanel.SetActive(true);
             Cursor.visible = true;
+            ShowCursorGFX(false);
         }
 
         if(Input.GetKeyDown(KeyCode.Escape)){
             Application.Quit();
         }
+    }
+
+    public void ShowCursorGFX(bool show)
+    {
+        cursorGFX.SetActive(show);
     }
 }

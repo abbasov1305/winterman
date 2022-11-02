@@ -22,11 +22,13 @@ public class Shop : MonoBehaviour
 
     void EnableShop(){
         Cursor.visible = true;
+        GameManager.instance.ShowCursorGFX(false);
         shopPanel.SetActive(true);
     }
 
     void DisableShop(){
         Cursor.visible = false;
+        GameManager.instance.ShowCursorGFX(true);
         shopPanel.SetActive(false);
     }
 

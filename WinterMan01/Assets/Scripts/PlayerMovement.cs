@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public GameObject[] bulletPrefabs;
     public float bulletSpeed = 10f;
 
+
     private Rigidbody2D rb;
     private Camera cam;
     private Animator anim;
@@ -25,6 +26,7 @@ public class PlayerMovement : MonoBehaviour
         bulletPrefab = bulletPrefabs[Random.Range(0, bulletPrefabs.Length)];
 
         // Cursor.visible = false;
+
     }
 
     void Update(){
